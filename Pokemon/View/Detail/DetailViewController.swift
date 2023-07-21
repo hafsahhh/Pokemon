@@ -171,3 +171,4 @@ class DetailViewController: UIViewController {
         self.detailUrl = detailUrl
     }
 }
+//coba dulu
